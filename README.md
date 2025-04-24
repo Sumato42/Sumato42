@@ -35,6 +35,6 @@
 ---
 
 ## 📫 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](www.linkedin.com/in/david-kamm-7a253727a)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://yourwebsite.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)  
