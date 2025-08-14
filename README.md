@@ -22,9 +22,10 @@
 ---
 
 ## 🚀 **Featured Projects**
-🔹 [**Project 1**](https://github.com/Sumato42/Surface-Reconstruction) – **3D Scene Reconstruction from Point Clouds using DeepSDF, IGR and Curriculum (Bachelor Thesis)**  
-🔹 [**Project 2**](git@github.com:Sumato42/Mixed-Reality-Tree-Rendering.git) – **Mixed-Reality Tree Rendering** 
-🔹 [**Project 3**](git@github.com:dtonderski/ReSEAL.git) – **ReSEAL - 3D Environment Exploration using Reinforcement Learning**
+
+- [**3D Scene Reconstruction from Point Clouds**](https://github.com/Sumato42/Surface-Reconstruction) — **Bachelor Thesis** implementing **DeepSDF**, **IGR**, and **Curriculum Learning** for 3D scene reconstruction.
+- [**Mixed-Reality Tree Rendering**](https://github.com/Sumato42/Mixed-Reality-Tree-Rendering) — Real-time rendering of interactive trees in **Mixed-Reality** environments.
+- [**ReSEAL**](https://github.com/dtonderski/ReSEAL) — 3D environment exploration powered by **Reinforcement Learning**.
 ---
 
 ## 📊 **GitHub Stats**
