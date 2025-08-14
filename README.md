@@ -22,10 +22,9 @@
 ---
 
 ## 🚀 **Featured Projects**
-🔹 [**Project 1**](https://github.com/Sumato42/project1) – **3D Object Detection using Deep Learning**  
-🔹 [**Project 2**](https://github.com/Sumato42/project2) – **Neural Style Transfer for Real-Time Rendering**  
-🔹 [**Project 3**](https://github.com/Sumato42/project3) – **Augmented Reality with Computer Vision**  
-
+🔹 [**Project 1**](https://github.com/Sumato42/Surface-Reconstruction) – **3D Scene Reconstruction from Point Clouds using DeepSDF, IGR and Curriculum (Bachelor Thesis)**  
+🔹 [**Project 2**](git@github.com:Sumato42/Mixed-Reality-Tree-Rendering.git) – **Mixed-Reality Tree Rendering** 
+🔹 [**Project 3**](git@github.com:dtonderski/ReSEAL.git) – **ReSEAL - 3D Environment Exploration using Reinforcement Learning**
 ---
 
 ## 📊 **GitHub Stats**
@@ -35,6 +34,5 @@
 ---
 
 ## 📫 **Let's Connect!**
-[![LinkedIn](www.linkedin.com/in/david-kamm-7a253727a)  
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/david-kamm-7a253727a) 
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:david.kamm@hotmail.com)  
